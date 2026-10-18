@@ -1,0 +1,10 @@
+django>=4.2,<5.0
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+pgvector
+groq
+python-dotenv
+django-cors-headers
+sentence-transformers
+pypdf
